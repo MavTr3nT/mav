@@ -63,7 +63,7 @@ npm start
 Need help deploying or want to suggest features?
 - Join the official Discord: **[discord.gg/hFZC5cgsmq](https://discord.gg/hFZC5cgsmq)**
 
-[![Join us on Discord](https://invidget.switchblade.xyz/hFZC5cgsmq?theme=dark)](https://discord.gg/unblockers)
+
 
 ---
 <p align="center">
